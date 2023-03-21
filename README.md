@@ -7,14 +7,14 @@ Platform for buying and locating products.
 ## Functionalities
 
 * Admin is able to:
- - add/change information about products;
- - accomplish moderation process of adding product on store
- - watch users information;
- - top up users balance
- - suspend/delete user account
- - send notifications to users
- - reconcile applies of company for registration on platform
- - suspend/delete user companies
+  - add/change information about products;
+  - accomplish moderation process of adding product on store
+  - watch users information;
+  - top up users balance
+  - suspend/delete user account
+  - send notifications to users
+  - reconcile applies of company for registration on platform
+  - suspend/delete user companies
 
 * User is able to:
   - buy/return products
@@ -29,7 +29,7 @@ Platform for buying and locating products.
 
 ## Schema of database
 
-
+![BD_Schema](https://github.com/AlexKlinkov/java-usual-store/blob/develop/DB_SCHEMA.jpg)
 
 ## Technology stack:
  - Java 17

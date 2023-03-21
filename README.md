@@ -4,7 +4,7 @@
 
 Platform for buying and locating products.
 
-## Functionalities
+## Functionalities:
 
 * Admin is able to:
   - add/change information about products;
@@ -27,7 +27,7 @@ Platform for buying and locating products.
   - sell own products after passed moderation process
   - get income for minus commission
 
-## Schema of database
+## Schema of database:
 
 ![BD_Schema](https://github.com/AlexKlinkov/java-usual-store/blob/develop/DB_SCHEMA.jpg)
 
@@ -40,7 +40,7 @@ Platform for buying and locating products.
  - PostgreSQL 42.3.1
  - Lombok 1.18.24
 
-## TO DO
+## TO DO:
 - finish writing base functionalities described above
 - cover code by tests, achieve 80% of covering
 - create postman queries for trial app

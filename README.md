@@ -31,7 +31,7 @@ Platform for buying and locating products.
 
 ![BD_Schema](https://github.com/AlexKlinkov/java-usual-store/blob/develop/DB_SCHEMA.jpg)
 
-## Technology stack:
+## Technology stack (on that moment):
  - Java 17
  - Spring Boot 2.7.9
  - Spring Security 5.7.7
@@ -46,3 +46,5 @@ Platform for buying and locating products.
 - create postman queries for trial app
 - prepare documentation for services class
 - create usual convenient frontend represent to interact app (html pages)
+- create files docker and docker-compose for deploy app
+- write instruction for launch this app

@@ -1,6 +1,7 @@
 package com.effectiveMobile.store.controllers.userControllers;
 
 import com.effectiveMobile.store.entities.Notification;
+import com.effectiveMobile.store.entities.Product;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
@@ -9,7 +10,7 @@ import org.springframework.web.bind.annotation.*;
 public class UserController {
 
     @GetMapping("/products/{id}}")
-    public ResponseEntity<?> buyProduct(@PathVariable long id) {
+    public ResponseEntity<?> buyProduct(@RequestBody Product product, @PathVariable long id) {
 
     }
 
